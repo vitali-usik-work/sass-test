@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEA,IAAK;EACH,UAAU,ECHI,OAAO;;ADMvB,QAAS;EACP,UAAU,ECLS,IAAI;EDMvB,KAAK,ECJW,OAAO",
+"sources": ["../sass/core/_base.scss","../sass/core/_settings.sass"],
+"names": [],
+"file": "style.css"
+}
